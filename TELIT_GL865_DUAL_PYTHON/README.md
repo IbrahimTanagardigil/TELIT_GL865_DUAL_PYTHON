@@ -1,5 +1,6 @@
 # TELIT_GL865_DUAL_PYTHON
  GL865 Dual & python ile email, sms gibi islemler
+ youtube video -> https://youtu.be/ZxMmg6sChrI
  
  
  TELIT_GL865_DUAL modeminin icerisinde python(*.py) ile kod yazilmistir. Bu kod "Pythonwin" programi ile byte koda cevrilir. (*.pyo) (setup' lar \user_setups icerisindedir)
