@@ -1,0 +1,10 @@
+SMS NO1             :#**tel_no_with_start_0**#
+SMS NO2             :#**tel_no_with_start_0**#
+TEMP MAX            :#28#
+TEMP MIN            :#05#
+SMTP SERVER         :#**your_email_server***#
+SENDER EMAIL ADDR   :#**your_email_address**#
+SENDER EMAIL PASS   :#****your_email_pass***#
+RECIEVER EMAIL ADDR1:#telit2deneme@gmail.com# 
+RECIEVER EMAIL ADDR2:#telit2deneme@gmail.com#
+ADJUST PASSWORD     :#****#

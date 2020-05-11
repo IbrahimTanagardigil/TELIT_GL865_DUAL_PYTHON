@@ -1,0 +1,11 @@
+Attention=AT
+No echo=ATE0
+Echo=ATE1
+Verbose error messages=AT+CMEE=2
+Check reg=AT+CREG?
+TEL OPEN=TEL OPEN
+TEL CLOSE=TEL CLOSE
+LISTEN=AT+CNMI=1,1,0,0,0
+END=END
+STATUS=STATUS
+PIN?=PIN?
